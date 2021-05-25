@@ -1,4 +1,5 @@
-## ->Best Memes [⬇](#bottom)
+## Best Memes [⬇](#bottom)  
+{: style="text-align: center;"}  
 May 16 Poems
 ![](https://cdn.discordapp.com/attachments/616461538978693141/843611482997653524/image0.jpg)
 ![](https://cdn.discordapp.com/attachments/616461538978693141/843611483223883796/image1.jpg)
@@ -62,5 +63,6 @@ Once a wise man said :
 
 ![](https://cdn.discordapp.com/attachments/777125510798245898/811982316099600404/server.jpg)
 
-## [⬆](#top)
+## [⬆](#top)  
+{: style="text-align: center;"}  
 <a name="bottom"></a>  
