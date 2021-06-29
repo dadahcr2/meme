@@ -1,5 +1,6 @@
 ##  [⬇](#bottom)  
 {: style="text-align: center;"}  
+# This site is no longer being updated. Please go to <http://hcr2.info>
 
 June 1  
 ![](https://cdn.discordapp.com/attachments/644277203273515012/849305059993059328/This_Is_The_Worst_Day_Of_My_Life_01062021171457.jpg)
